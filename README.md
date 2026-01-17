@@ -63,4 +63,4 @@ I thrive in motivating, growth-oriented environments that promote continuous lea
 
 ### GitHub Status
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/maks28atish03kumar04sahu01?cardType=level-alternate&theme=dark&fontFamily=Ubuntu&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/maks28atish03kumar04sahu01?cardType=level-alternate&theme=github-dark&fontFamily=Ubuntu&preferLogin=true)](https://git.io/awesome-stats-card)
