@@ -1,19 +1,14 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Atish Kumar Sahu
+=========================================================================================================================================
 
-Atish Kumar Sahu
+Full Stack Web Developer | Data Analyst | Freelancer | Content Creator
+----------------------------------------------------------------------
 
-###
+I thrive in motivating, growth-oriented environments that promote continuous learning and professional development. I am actively seeking challenging freelance engagements and full-time opportunities within the technology industry where I can apply my technical expertise to deliver meaningful business outcomes. With a strong commitment to innovation, collaboration, and problem-solving, I consistently focus on creating measurable value for teams and clients. I am particularly interested in opportunities across startups, product-based organizations, and enterprise environments that offer scope for impact-driven work, technical growth, and long-term career advancement.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/280301atish280301/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@mr_indian_programmer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/maks_123480_void/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+* 🌍  I'm based in Bengaluru, India
+* 🖥️  See my portfolio at [Atish.io](http://kumarsahuatishoff012348-portfolio-app.netlify.app/portfolio/app/v1/home)
+* ✉️  You can contact me at [kumarsahuatishoff280301@gmail.com](mailto:kumarsahuatishoff280301@gmail.com)
+* 🧠  I'm currently learning Data Analysis
+* 👥  I'm looking to collaborate on Portfolio Projects | Frontend App | Full Stack Web App
+* 💬  A man who puts a price on his loyalty is not worthy of being loved.
