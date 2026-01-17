@@ -1,4 +1,4 @@
-Hi, My name is Atish Kumar Sahu
+Hi, my name is Atish Kumar Sahu
 =========================================================================================================================================
 
 Full Stack Web Developer | Data Analyst | Freelancer | Content Creator
@@ -11,4 +11,4 @@ I thrive in motivating, growth-oriented environments that promote continuous lea
 * ✉️  You can contact me at [kumarsahuatishoff280301@gmail.com](mailto:kumarsahuatishoff280301@gmail.com)
 * 🧠  I'm currently learning Data Analysis
 * 👥  I'm looking to collaborate on Portfolio Projects | Frontend App | Full Stack Web App
-* 💬  Ask me about A man who puts a price on his loyalty is not worthy of being loved.
+* 💬  A man who puts a price on his loyalty is not worthy of being loved.
